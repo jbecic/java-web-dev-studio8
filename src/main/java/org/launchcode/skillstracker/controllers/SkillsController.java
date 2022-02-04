@@ -17,7 +17,8 @@ public class SkillsController {
                 "<li>Java</li>" +
                 "<li>JavaScript</li>" +
                 "<li>Python</li>" +
-                "</ol>";
+                "</ol>" +
+                "</html>";
     }
 
     @GetMapping("form")
